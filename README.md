@@ -5,17 +5,17 @@
 [![Status](https://img.shields.io/badge/Status-Open_for_offers%20-brightgreen.svg)](https://github.com/kevinzepwa)
 ![Profile views](https://gpvc.arturio.dev/kevinzepwa) <img src="https://img.shields.io/github/followers/kevinzepwa ?label=Follow" style=" float:left, margin-right:10px" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kevins%20Zepwa-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://github.com/kevinzepwa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Collins-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/collins-kigen-67b74910a/)](https://www.linkedin.com/in/kevin-zepwa/)
-[![Gmail](https://img.shields.io/badge/Email-ckigen.k@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:ckigen.k@gmail.com)](mailto:zepwakevin8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kevins%20Zepwa-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://kevinzepwa.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kevin-zepwa/)](https://www.linkedin.com/in/kevin-zepwa/)
+[![Gmail](https://img.shields.io/badge/Email-zepwakevin8@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:zepwakevin8@gmail.com)](mailto:zepwakevin8@gmail.com)
 
 I am an Fullstack software developer proficient in JavaScript and Python, currently learning Elixir and Phoenix.
 
-`⏰ Last updated: 28th Dec, 2022`
+`⏰ Last updated: 28th Nov, 2021`
 
 ### 💼 Career
 
-- Software Engineer, Freelance ~ Nov, 2021 - Present
+- Software Engineer, GigLab ~ Jan, 2021
 
 ### 💻 Skills (Languages & Frameworks & Tools)
 
