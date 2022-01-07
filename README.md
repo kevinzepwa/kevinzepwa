@@ -45,4 +45,4 @@ I am an Fullstack software developer proficient in JavaScript and Python, curren
   - ![](https://progress-bar.dev/89/?title=MySQL&width=90)
   - ![](https://progress-bar.dev/87/?title=MongoDB&width=90)
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinzepwa)](https://github.com/kevinzepwa/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinzepwa&show_icons=true)](https://github.com/kevinzepwa/github-readme-stats)
