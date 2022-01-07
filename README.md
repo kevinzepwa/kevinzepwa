@@ -45,6 +45,4 @@ I am an Fullstack software developer proficient in JavaScript and Python, curren
   - ![](https://progress-bar.dev/89/?title=MySQL&width=90)
   - ![](https://progress-bar.dev/87/?title=MongoDB&width=90)
 
-[![Kevin' github stats](https://github-readme-stats.vercel.app/api?username=kevinzepwa &show_icons=true&custom_title=My+GtHub+Stats)](https://github.com/kevinzepwa)
-[![Kevin' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devKev&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzepwa &exclude_repo=web-scrapping-intro,absenteeism-data-analysis,audio-book-deep-learning-business-case,purchase-recommendation,data-science-basics,Car-sales-Linear-regression,pandas-fundamental,pima-india-data-prediction.,data-science-logistic-regression,titanic-data-science,hotel-recommender,recommennder-system-levelup,black-friday,deep-learning-tensorflow,neural-network-basic,titanic-data-science,movie-recommendation-system&layout=compact)](https://github.com/kevinzepwa)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinzepwa)](https://github.com/kevinzepwa/github-readme-stats)
