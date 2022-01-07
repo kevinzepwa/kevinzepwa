@@ -46,3 +46,5 @@ I am an Fullstack software developer proficient in JavaScript and Python, curren
   - ![](https://progress-bar.dev/87/?title=MongoDB&width=90)
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinzepwa&show_icons=true)](https://github.com/kevinzepwa/github-readme-stats)
+
+[![Kevin' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devKev&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/anuraghazra/github-readme-stats)
