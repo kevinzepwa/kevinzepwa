@@ -50,4 +50,4 @@ I am an Fullstack software developer proficient in JavaScript and Python, curren
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzepwa&theme=radical&layout=compact)](https://github.com/kevinzepwa/github-readme-stats)
 
-[![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinzepwa)](https://github.com/kevinzepwa/github-readme-stats)
+[![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devKev)](https://github.com/kevinzepwa/github-readme-stats)
