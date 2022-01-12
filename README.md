@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kevin-zepwa/)](https://www.linkedin.com/in/kevin-zepwa/)
 [![Gmail](https://img.shields.io/badge/Email-zepwakevin8@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:zepwakevin8@gmail.com)](mailto:zepwakevin8@gmail.com)
 
-I am an Fullstack software developer proficient in JavaScript and Python, currently learning Elixir and Phoenix.
+I am an software developer proficient in JavaScript, currently learning Python, Elixir and Phoenix.
 
 `⏰ Last updated: 28th Nov, 2021`
 
