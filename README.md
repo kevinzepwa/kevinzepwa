@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin - aka devKev 👋
+### Hi there, I'm Kevin - a Fullstack Developer 👋
 
 <img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="100%"/>
 
