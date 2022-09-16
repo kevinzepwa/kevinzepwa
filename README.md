@@ -25,7 +25,7 @@ I am an software developer proficient in JavaScript, React & Redux, Node.js, Pyt
 
 ### 💻 Skills (Languages & Frameworks & Tools)
 
-- Javascript
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> Javascript
 
   - ![](https://progress-bar.dev/92/?title=ReactJS&width=90)
   - ![](https://progress-bar.dev/90/?title=Redux&width=90)
