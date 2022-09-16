@@ -21,6 +21,9 @@ I am an software developer proficient in JavaScript, React & Redux, Node.js, Pyt
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  
 </p>
 
 - Javascript
@@ -53,5 +56,7 @@ I am an software developer proficient in JavaScript, React & Redux, Node.js, Pyt
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzepwa&theme=radical&layout=compact)](https://github.com/kevinzepwa/github-readme-stats)
+
+[![Kevin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devKev&theme=radical)](https://github.com/kevinzepwa/github-readme-stats) -->
