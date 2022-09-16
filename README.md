@@ -5,13 +5,13 @@
 [![Status](https://img.shields.io/badge/Status-Open_for_offers%20-brightgreen.svg)](https://github.com/kevinzepwa)
 ![Profile views](https://gpvc.arturio.dev/kevinzepwa) <img src="https://img.shields.io/github/followers/kevinzepwa ?label=Follow" style=" float:left, margin-right:10px" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kevins%20Zepwa-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://kevinzepwa.netlify.app/)
+//[![Portfolio](https://img.shields.io/badge/Portfolio-Kevins%20Zepwa-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://kevinzepwa.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kevin-zepwa/)](https://www.linkedin.com/in/kevin-zepwa/)
 [![Gmail](https://img.shields.io/badge/Email-zepwakevin8@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:zepwakevin8@gmail.com)](mailto:zepwakevin8@gmail.com)
 
 I am an software developer proficient in JavaScript, React & Redux, Node.js, Python, Elixir and Phoenix.
 
-`⏰ Last updated: 28th Nov, 2021`
+`⏰ Last updated: 28th July, 2022`
 
 ### 💼 Career
 
