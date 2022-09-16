@@ -52,11 +52,6 @@ I am an software developer proficient in JavaScript, React & Redux, Node.js, Pyt
   - ![](https://progress-bar.dev/89/?title=MySQL&width=90)
   - ![](https://progress-bar.dev/87/?title=MongoDB&width=90)
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinzepwa&show_icons=true&theme=radical)](https://github.com/kevinzepwa/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzepwa&theme=radical&layout=compact)](https://github.com/kevinzepwa/github-readme-stats)
-
-[![Kevin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinzepwa&show_icons=true&theme=radical)](https://github.com/kevinzepwa/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzepwa&theme=radical&layout=compact)](https://github.com/kevinzepwa/github-readme-stats)
 
 <!-- [![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devKev&theme=radical)](https://github.com/kevinzepwa/github-readme-stats) -->
