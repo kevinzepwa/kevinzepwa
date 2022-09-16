@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kevin-zepwa/)](https://www.linkedin.com/in/kevin-zepwa/)
 [![Gmail](https://img.shields.io/badge/Email-zepwakevin8@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:zepwakevin8@gmail.com)](mailto:zepwakevin8@gmail.com)
 
-I am an software developer proficient in JavaScript, React & Redux, Node.js, Python, Elixir and Phoenix.
+I am an software developer proficient in JavaScript, React & Redux, Node.js, Python, Elixir, Phoenix and CMS.
 
 `⏰ Last updated: 28th July, 2022`
 
