@@ -56,4 +56,4 @@ I am an software developer proficient in JavaScript, React & Redux, Node.js, Pyt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzepwa&theme=radical&layout=compact)](https://github.com/kevinzepwa/github-readme-stats)
 
-[![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devKev&theme=radical)](https://github.com/kevinzepwa/github-readme-stats)
+<--![![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devKev&theme=radical)](https://github.com/kevinzepwa/github-readme-stats) -->
